@@ -4,5 +4,4 @@
 
 - 해당 Repositories의 파일들을 사용한 최종 결과물
 <br/>
-  
 [2024-Spring-Joint-Conference-of-KORMS-and-KIIE](https://github.com/jaejunchoe/2024-Spring-Joint-Conference-of-KORMS-and-KIIE?tab=readme-ov-file)
